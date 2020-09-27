@@ -9,5 +9,5 @@ ply.ylabel("Grade")
 plt.savefig('test', dpi = 600)  #存为png文件
 plt.show()
 ```
-![exp1](C:\Users\qxh00\Dropbox\md_os\py\Fig_exp1)  
+![exp1](https://github.com/MinxuanQin/py_data_analysis/blob/master/Fig_exp1.png)  
 输入一个列表/数组时，参数被当作y轴，x轴以索引自动生成。
