@@ -92,10 +92,10 @@ np.sign(x)|各元素符合值：1，0，-1
 
 3. numpy二元函数
 
-函数|说明
----|---
-+ - * / **|各元素进行对应运算
-np.maximum(x,y) np.fmax()<br>np.minimum(x,y) np.fmin()|最大值/最小值计算
-np.mod(x,y)|元素级模运算
-np.copysign(x,y)|数组y各元素的符号赋值给数组x对应元素
-\> < >= <= == !=|算数比较，产生布尔型数组
+|函数|说明
+|---|---
+|+ - * / **|各元素进行对应运算  
+|np.maximum(x,y) np.fmax()<br>np.minimum(x,y) np.fmin()|最大值/最小值计算
+|np.mod(x,y)|元素级模运算
+|np.copysign(x,y)|数组y各元素的符号赋值给数组x对应元素
+|> < >= <= == !=|算数比较，产生布尔型数组
